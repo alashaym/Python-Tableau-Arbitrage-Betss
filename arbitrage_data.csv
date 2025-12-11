@@ -1,0 +1,175 @@
+advantage_type,lastFoundAt,event_name,event_start_time,market_type,market_segment,modifier,payout,source,live,participant_name,participant_shortName,sport_type
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Lions @ Los Angeles Rams,"December 14, 2025 at 09:25 PM",MONEYLINE,FULL_MATCH,0.0,1.42,BET_MGM,False,Los Angeles Rams,LAR,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Lions @ Los Angeles Rams,"December 14, 2025 at 09:25 PM",MONEYLINE,FULL_MATCH,0.0,3.4,BOVADA,False,Detroit Lions,DET,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Lions @ Los Angeles Rams,"December 14, 2025 at 09:25 PM",MONEYLINE,FULL_MATCH,0.0,1.42,BET_MGM,False,Los Angeles Rams,LAR,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Lions @ Los Angeles Rams,"December 14, 2025 at 09:25 PM",MONEYLINE,FULL_MATCH,0.0,3.3853,KUTT,False,Detroit Lions,DET,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,BET_PARX,False,Ottawa Senators,OTT,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Columbus Blue Jackets,CBJ,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.15,BET_RIVERS,False,Ottawa Senators,OTT,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Columbus Blue Jackets,CBJ,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,BOVADA,False,Ottawa Senators,OTT,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Columbus Blue Jackets,CBJ,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,DRAFT_KINGS,False,Ottawa Senators,OTT,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Columbus Blue Jackets,CBJ,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.0,ESPN_BET,False,Ottawa Senators,OTT,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Columbus Blue Jackets,CBJ,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.1,FAN_DUEL,False,Ottawa Senators,OTT,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Columbus Blue Jackets,CBJ,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.1,FANATICS,False,Ottawa Senators,OTT,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Ottawa Senators @ Columbus Blue Jackets,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Columbus Blue Jackets,CBJ,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.23,BET_PARX,False,Toronto Maple Leafs,TOR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,San Jose Sharks,SJS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.23,BET_RIVERS,False,Toronto Maple Leafs,TOR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,San Jose Sharks,SJS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.15,BET_MGM,False,Toronto Maple Leafs,TOR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,San Jose Sharks,SJS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.25,BOVADA,False,Toronto Maple Leafs,TOR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,San Jose Sharks,SJS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.2,DRAFT_KINGS,False,Toronto Maple Leafs,TOR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,San Jose Sharks,SJS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.15,ESPN_BET,False,Toronto Maple Leafs,TOR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,San Jose Sharks,SJS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.28,FAN_DUEL,False,Toronto Maple Leafs,TOR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,San Jose Sharks,SJS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.2,FANATICS,False,Toronto Maple Leafs,TOR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Jose Sharks @ Toronto Maple Leafs,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,San Jose Sharks,SJS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Francisco 49ers @ Indianapolis Colts,"December 23, 2025 at 01:15 AM",MONEYLINE,FULL_MATCH,0.0,1.37037,DRAFT_KINGS,False,San Francisco 49ers,SF,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",San Francisco 49ers @ Indianapolis Colts,"December 23, 2025 at 01:15 AM",MONEYLINE,FULL_MATCH,0.0,3.7927,KUTT,False,Indianapolis Colts,IND,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.55,BET_PARX,False,Winnipeg Jets,WPG,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Boston Bruins,BOS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.5,BET_RIVERS,False,Winnipeg Jets,WPG,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Boston Bruins,BOS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.54,BET_MGM,False,Winnipeg Jets,WPG,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Boston Bruins,BOS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.64,DRAFT_KINGS,False,Winnipeg Jets,WPG,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Boston Bruins,BOS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.6,ESPN_BET,False,Winnipeg Jets,WPG,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Boston Bruins,BOS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.46,FAN_DUEL,False,Winnipeg Jets,WPG,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Boston Bruins,BOS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.65,FANATICS,False,Winnipeg Jets,WPG,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Boston Bruins @ Winnipeg Jets,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Boston Bruins,BOS,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Buccaneers @ Carolina Panthers,"December 21, 2025 at 06:00 PM",MONEYLINE,FULL_MATCH,0.0,1.8,DRAFT_KINGS,False,Tampa Bay Buccaneers,TB,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Buccaneers @ Carolina Panthers,"December 21, 2025 at 06:00 PM",MONEYLINE,FULL_MATCH,0.0,2.28,FAN_DUEL,False,Carolina Panthers,CAR,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.05,BET_PARX,False,Tampa Bay Lightning,TBL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,New Jersey Devils,NJD,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.05,BET_RIVERS,False,Tampa Bay Lightning,TBL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,New Jersey Devils,NJD,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.7,BET_MGM,False,Tampa Bay Lightning,TBL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,New Jersey Devils,NJD,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.95,BOVADA,False,Tampa Bay Lightning,TBL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,New Jersey Devils,NJD,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.05,DRAFT_KINGS,False,Tampa Bay Lightning,TBL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,New Jersey Devils,NJD,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.85,ESPN_BET,False,Tampa Bay Lightning,TBL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,New Jersey Devils,NJD,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.05,FAN_DUEL,False,Tampa Bay Lightning,TBL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,New Jersey Devils,NJD,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.0,FANATICS,False,Tampa Bay Lightning,TBL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tampa Bay Lightning @ New Jersey Devils,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,New Jersey Devils,NJD,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.33,BET_PARX,False,Edmonton Oilers,EDM,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.32,BET_RIVERS,False,Edmonton Oilers,EDM,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.72,BET_MGM,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.4,FANATICS,False,Edmonton Oilers,EDM,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.15,BET_MGM,False,Edmonton Oilers,EDM,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.2,DRAFT_KINGS,False,Edmonton Oilers,EDM,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.2,ESPN_BET,False,Edmonton Oilers,EDM,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.3,FAN_DUEL,False,Edmonton Oilers,EDM,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.4,FANATICS,False,Edmonton Oilers,EDM,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Edmonton Oilers,"December 12, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.1,BET_PARX,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Calgary Flames,CGY,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.1,BET_RIVERS,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Calgary Flames,CGY,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,BOVADA,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Calgary Flames,CGY,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,DRAFT_KINGS,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Calgary Flames,CGY,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,FANATICS,False,Detroit Red Wings,DET,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Detroit Red Wings @ Calgary Flames,"December 11, 2025 at 01:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Calgary Flames,CGY,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.7,BET_PARX,False,Los Angeles Kings,LAK,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Seattle Kraken,SEA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.65,BET_RIVERS,False,Los Angeles Kings,LAK,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Seattle Kraken,SEA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.8,BET_MGM,False,Los Angeles Kings,LAK,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Seattle Kraken,SEA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.78,BOVADA,False,Los Angeles Kings,LAK,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Seattle Kraken,SEA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.8,DRAFT_KINGS,False,Los Angeles Kings,LAK,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Seattle Kraken,SEA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.7,ESPN_BET,False,Los Angeles Kings,LAK,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Seattle Kraken,SEA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.72,FAN_DUEL,False,Los Angeles Kings,LAK,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Seattle Kraken,SEA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.75,FANATICS,False,Los Angeles Kings,LAK,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Los Angeles Kings @ Seattle Kraken,"December 11, 2025 at 03:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Seattle Kraken,SEA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.7,BET_PARX,False,New York Rangers,NYR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Chicago Blackhawks,CHI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.7,BET_RIVERS,False,New York Rangers,NYR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Chicago Blackhawks,CHI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.8,BET_MGM,False,New York Rangers,NYR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Chicago Blackhawks,CHI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.8,BOVADA,False,New York Rangers,NYR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Chicago Blackhawks,CHI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.7,DRAFT_KINGS,False,New York Rangers,NYR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Chicago Blackhawks,CHI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.7,ESPN_BET,False,New York Rangers,NYR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Chicago Blackhawks,CHI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.8,FAN_DUEL,False,New York Rangers,NYR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Chicago Blackhawks,CHI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.75,FANATICS,False,New York Rangers,NYR,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",New York Rangers @ Chicago Blackhawks,"December 11, 2025 at 12:30 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Chicago Blackhawks,CHI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,BET_PARX,False,Nashville Predators,NSH,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,St. Louis Blues,STL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,BET_RIVERS,False,Nashville Predators,NSH,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,St. Louis Blues,STL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.0,DRAFT_KINGS,False,Nashville Predators,NSH,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,St. Louis Blues,STL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.9,ESPN_BET,False,Nashville Predators,NSH,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,St. Louis Blues,STL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.1,FAN_DUEL,False,Nashville Predators,NSH,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,St. Louis Blues,STL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.0,FANATICS,False,Nashville Predators,NSH,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",St. Louis Blues @ Nashville Predators,"December 12, 2025 at 01:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,St. Louis Blues,STL,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Sevilla @ Real Madrid,"December 20, 2025 at 08:00 PM",BOTH_TEAMS_TO_SCORE,REGULATION_TIME,0.0,1.91,BET_PARX,False,Unknown,Unknown,SOCCER
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Sevilla @ Real Madrid,"December 20, 2025 at 08:00 PM",BOTH_TEAMS_TO_SCORE,REGULATION_TIME,0.0,2.1,BOVADA,False,Unknown,Unknown,SOCCER
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tennessee Titans @ San Francisco 49ers,"December 14, 2025 at 09:25 PM",MONEYLINE,FULL_MATCH,0.0,1.133333,BOVADA,False,San Francisco 49ers,SF,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Tennessee Titans @ San Francisco 49ers,"December 14, 2025 at 09:25 PM",MONEYLINE,FULL_MATCH,0.0,9.1762,KUTT,False,Tennessee Titans,TEN,AMERICAN_FOOTBALL
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.0,BET_PARX,False,New York Islanders,NYI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Anaheim Ducks,ANA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.0,BET_RIVERS,False,New York Islanders,NYI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Anaheim Ducks,ANA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.8,BET_MGM,False,New York Islanders,NYI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Anaheim Ducks,ANA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.9,BOVADA,False,New York Islanders,NYI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Anaheim Ducks,ANA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.9,DRAFT_KINGS,False,New York Islanders,NYI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Anaheim Ducks,ANA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.8,ESPN_BET,False,New York Islanders,NYI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Anaheim Ducks,ANA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.94,FAN_DUEL,False,New York Islanders,NYI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Anaheim Ducks,ANA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,2.9,FANATICS,False,New York Islanders,NYI,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Anaheim Ducks @ New York Islanders,"December 12, 2025 at 12:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Anaheim Ducks,ANA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,BET_PARX,False,Florida Panthers,FLA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Utah Mammoth,UHC,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,BET_RIVERS,False,Florida Panthers,FLA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Utah Mammoth,UHC,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.0,BET_MGM,False,Florida Panthers,FLA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Utah Mammoth,UHC,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.25,BOVADA,False,Florida Panthers,FLA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Utah Mammoth,UHC,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.15,DRAFT_KINGS,False,Florida Panthers,FLA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Utah Mammoth,UHC,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.1,ESPN_BET,False,Florida Panthers,FLA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Utah Mammoth,UHC,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.1,FAN_DUEL,False,Florida Panthers,FLA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Utah Mammoth,UHC,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,-1.5,3.2,FANATICS,False,Florida Panthers,FLA,ICE_HOCKEY
+ARBITRAGE,"December 10, 2025 at 11:17 PM",Florida Panthers @ Utah Mammoth,"December 11, 2025 at 02:00 AM",POINT_SPREAD,FULL_MATCH,1.5,1.94,KUTT,False,Utah Mammoth,UHC,ICE_HOCKEY
